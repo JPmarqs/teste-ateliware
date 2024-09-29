@@ -57,7 +57,7 @@ import { ref } from "vue";
 import Select from "primevue/select";
 import Button from "primevue/button";
 import Image from "primevue/image";
-import ProgressSpinner from "primevue/progressSpinner";
+import ProgressSpinner from "primevue/progressspinner";
 
 import ModalVencedor from "./modalVencedor.vue";
 import api from "../service/index";
