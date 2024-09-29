@@ -35,7 +35,7 @@
         width="250"
         preview
       />
-      <Progress-spinner v-if="loading" size="large" style="z-index: 1000;"/>
+      <ProgressSpinner v-if="loading" size="large" style="z-index: 1000;"/>
       <Image
       v-if="imgPokemon2"
       :src="imgPokemon2"
